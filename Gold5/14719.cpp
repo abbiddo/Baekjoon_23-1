@@ -9,7 +9,6 @@
 using namespace std;
 
 int arr[501];
-int check[500];
 int main() {
 	int n;		cin >> n >> n;
 	for (int i = 0; i < n; i++)cin >> arr[i];
